@@ -1,0 +1,11 @@
+0	HasSymptom
+1	HasAccompany
+2	WithCategory
+3	BelongsTo
+4	HasCommonDrug
+5	HasRecommendDrug
+6	NotEat
+7	DoEat
+8	RecommendEat
+9	CheckIn
+10	IsOneCategoryOf
